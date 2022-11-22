@@ -7,3 +7,5 @@ I also implemented the next 2 milestones: pagintion and caching. I used the scro
 Furthermore, I added caching using a NSCache, which was an in memory cache. This is not too useful as I download images into a dataSource array. However, if given more time, I would create a URLCache which persists across relauches of the app so that the number of network calls are limited.
 
 For fast UI creation given the limited amount of time, I used storyboard to create the application so that UI elements could be populated and constrained quickly!
+
+<img width="366" alt="Screen Shot 2022-11-22 at 12 03 45 PM" src="https://user-images.githubusercontent.com/37046093/203410395-bf77bd7f-ada5-4b8b-8b8d-bcd992cd4a11.png">
